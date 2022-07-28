@@ -1,0 +1,1 @@
+from quiznew import *
