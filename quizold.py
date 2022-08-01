@@ -1,4 +1,5 @@
-.#global variables 11/5/22
+#this version of the quiz is functional (and possibly more user friendly) however work on it was ceased due to it not being robust enough
+#global variables 11/5/22
 import random
 questionlista = []
 questionlistb = []

@@ -1,3 +1,4 @@
+#this version of the quiz is unfunctional and work on it was ceased due to it not being robust enough
 #global variables 11/5/22
 import random
 right_answer = []
